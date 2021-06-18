@@ -1,0 +1,205 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_1_h {
+	fill: url(#Rectangle_1_h);
+	stroke: rgba(22,22,22,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_h {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+#Group_4 {
+	position: absolute;
+	width: 807.52px;
+	height: 229.348px;
+	left: 556.24px;
+	top: 96.369px;
+	overflow: visible;
+}
+#Idea_logo {
+	position: absolute;
+	width: 225.52px;
+	height: 229.348px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Arcadabra {
+	left: 225.52px;
+	top: 57.174px;
+	position: absolute;
+	overflow: visible;
+	width: 583px;
+	white-space: nowrap;
+	line-height: 149px;
+	margin-top: -17px;
+	text-align: center;
+	font-family: Agrandir;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.1px;
+}
+#esta_en_construccin {
+	left: 725px;
+	top: 358.717px;
+	position: absolute;
+	overflow: visible;
+	width: 471px;
+	white-space: nowrap;
+	line-height: 46px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Menlo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(216,0,78,1);
+	letter-spacing: 0.1px;
+}
+#Pero_nuestra_convocatoria_est_ {
+	left: 556px;
+	top: 435px;
+	position: absolute;
+	overflow: visible;
+	width: 857px;
+	white-space: nowrap;
+	line-height: 46px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Menlo;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.1px;
+}
+#Y_t_cmo_capturas_la_esencia_la {
+	left: 577px;
+	top: 842px;
+	position: absolute;
+	overflow: visible;
+	width: 815px;
+	white-space: nowrap;
+	line-height: 46px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Menlo;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.1px;
+}
+#Group_2 {
+	position: absolute;
+	width: 341px;
+	height: 80px;
+	left: 790px;
+	top: 722px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 341px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Enviar {
+	left: 106px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	line-height: 46px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Menlo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(216,0,78,1);
+	letter-spacing: 0.1px;
+}
+#Solo_djanos_tu_correo_aqu___ {
+	opacity: 0.233;
+	left: 611px;
+	top: 610px;
+	position: absolute;
+	overflow: visible;
+	width: 707px;
+	white-space: nowrap;
+	line-height: 46px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Menlo;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.1px;
+}
+#Rectangle_2 {
+	fill: rgba(247,239,239,0);
+	stroke: rgba(255,255,255,0.969);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 759px;
+	height: 65px;
+	left: 581px;
+	top: 597px;
+}
